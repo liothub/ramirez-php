@@ -1,0 +1,12 @@
+{
+  "name": "lionel-i7/ramirez-php",
+  "description": "A PHP application to tracking expenses.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
